@@ -1,5 +1,7 @@
 # B3-Simulator_preview
-Versão aberta do simulador da bolsa de valores - Trabalho de conclusão de curso (Sem código fonte - Privacidade de projeto). ReactJS + NodeJS + OracleDB
+Versão aberta do simulador da bolsa de valores - Trabalho de conclusão de curso (Sem código fonte - Privacidade de projeto). 
+
+ReactJS + NodeJS + OracleDB + Firebase Auth
 
 ![image](https://user-images.githubusercontent.com/28464939/74043549-58b7df00-49a8-11ea-8ea1-8650223dd6dc.png)
 
